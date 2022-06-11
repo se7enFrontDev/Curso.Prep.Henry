@@ -1,0 +1,2 @@
+for: El for es una estructura que nos permite recorrer de forma individual cada elemento de un dato.
+&&, ||, !: Estos símbolos sirven para poder comparar valores booleanos, originados en base a una comparación entre dos elementos.
