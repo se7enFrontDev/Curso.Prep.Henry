@@ -1,6 +1,6 @@
 Variables: Es el equivalente a un contenedor identificado en donde podemos guardar elementos varios.
 
-Strings: Un string es una cadena o un conjunto de varios caractéres o letras unidos entre sí.
+Strings: Un string es una cadena o un conjunto de varios caractéres consecutivos.
 
 Funciones: Las funciones son tareas que definimos para poder re utilizar las veces que necesitemos en cualquier parte del programa.
 
