@@ -115,7 +115,6 @@ function esEntero(numero) {
   }
 
   /*
-
   ----- alternativa1 -----
 
   if (numero % 1 == 0) {
@@ -131,7 +130,6 @@ function esEntero(numero) {
   } else {
     return false;
   }
-  
   */
 }
 
