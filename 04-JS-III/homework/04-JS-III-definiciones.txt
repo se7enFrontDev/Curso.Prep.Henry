@@ -1,0 +1,1 @@
+Arrays: Es una colección de varios datos o elementos, de los cuales, cada uno de ellos posee una posición.
